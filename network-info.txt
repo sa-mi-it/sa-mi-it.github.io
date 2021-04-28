@@ -1,0 +1,10 @@
+Hey!
+If you would like to peer with our experimental network feel free to reach me out at me@sami.pw or join mutual IXs chats/groups
+
+Peering policy: Open to everyone
+
+ASN211480
+
+PoPs:
+- Zurich
+- Frankfurt
